@@ -14,8 +14,8 @@ A robust backend REST API built with Python and FastAPI. This connector securely
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd github-connector
+   git clone [<your-repo-url>](https://github.com/AmanS3109/GithubCloudConnector.git)
+   cd GithubCloudConnector
    ```
 
 2. **Create and activate a virtual environment:**
