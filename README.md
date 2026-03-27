@@ -49,7 +49,7 @@ uvicorn app.main:app --reload
 ```
 The API will be live at http://127.0.0.1:8000.
 
-## 📡 API Endpoints
+## API Endpoints
 
 Explore and test all endpoints interactively via the Swagger UI at http://127.0.0.1:8000/docs.
 
