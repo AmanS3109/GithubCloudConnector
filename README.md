@@ -2,7 +2,7 @@
 
 A robust backend REST API built with Python and FastAPI. This connector securely authenticates users via the OAuth 2.0 flow to interact with their GitHub repositories, manage issues, and create pull requests.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * **Backend:** Python 3.10+
 * **Framework:** FastAPI
@@ -10,7 +10,7 @@ A robust backend REST API built with Python and FastAPI. This connector securely
 * **Validation:** Pydantic
 * **Security:** OAuth 2.0 (Authorization Code Flow) & HTTPBearer
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository:**
    ```bash
@@ -41,7 +41,7 @@ A robust backend REST API built with Python and FastAPI. This connector securely
    GITHUB_CLIENT_SECRET=your_client_secret_here
    ```
 
-## 🏃 How to Run the Project
+## How to Run the Project
 
 Start the ASGI server using Uvicorn:
 ```bash
